@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huijuhnkim
 - 👀 I’m interested in developing audio softwares !
-- 🌱 I’m currently learning Swift, TypeScript, and MATLAB.
+- 🌱 I’m currently learning iOS mobile development and fullstack web development !
 - 💞️ I’m looking to collaborate on audio-related projects!
 - 📫 How to reach me: kim.huijuhn@gmail.com
 <!---
